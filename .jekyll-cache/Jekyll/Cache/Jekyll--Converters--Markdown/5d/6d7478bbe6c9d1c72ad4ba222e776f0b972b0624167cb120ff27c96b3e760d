@@ -1,0 +1,12 @@
+I"><h2 id="intro">Intro</h2>
+<p>Markdown is cool</p>
+
+<p>Here is some code</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>while 1:
+    print("poop")
+</code></pre></div></div>
+
+<p>Here is image
+<img src="./img/posts/test/danny.jpg" alt="Here is alt text" /></p>
+:ET
