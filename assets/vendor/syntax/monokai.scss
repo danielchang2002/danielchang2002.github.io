@@ -1,5 +1,11 @@
 $background: #272822;
 
+.highlight pre, pre {
+  background-color: $background;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
 .highlight {
   background-color: $background;
   padding: 6px 10px;
@@ -31,6 +37,9 @@ $background: #272822;
     color: #f8f8f2;
   }
   .cm, .cp, .c1, .cs {
+    color: #a8a38d;
+  }
+  .lineno {
     color: #a8a38d;
   }
   .ge {
