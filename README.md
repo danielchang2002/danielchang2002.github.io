@@ -1,3 +1,3 @@
 # Personal website
 
-Ripped off from [Max Shen's page](https://www.maxwshen.com/)
+Page inspired by [Max Shen's page](https://www.maxwshen.com/)
