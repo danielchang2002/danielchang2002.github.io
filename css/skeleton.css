@@ -29,14 +29,14 @@
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
-  min-width: 800px;
+  min-width: 840px;
 }
 
 .container {
   position: relative;
   width: 100%;
-  min-width: 800px;
-  max-width: 800px;
+  min-width: 840px;
+  max-width: 840px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
@@ -50,8 +50,8 @@ body {
 @media (min-width: 0px) {
   .container {
     width: 85%;
-    min-width: 800px;
-    max-width: 800px;
+    min-width: 840px;
+    max-width: 840px;
     padding: 0; }
 }
 
@@ -59,8 +59,8 @@ body {
 @media (min-width: 0px) {
   .container {
     width: 80%; 
-    min-width: 800px;
-    max-width: 800px;
+    min-width: 840px;
+    max-width: 840px;
   }
   .column,
   .columns {
@@ -447,3 +447,7 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+.container {
+  padding: 0 20px;
+}
